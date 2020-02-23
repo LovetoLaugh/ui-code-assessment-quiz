@@ -10,8 +10,12 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "@types/node": "^13.7.4",
+    "@types/react-redux": "^7.1.7",
+    "axios": "^0.19.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "html-entities": "^1.2.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "typescript": "^3.7.2"
